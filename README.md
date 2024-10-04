@@ -16,9 +16,7 @@ The Airlines Management System is a console-based application developed in C tha
   - `Passenger`: A linked list to store passenger details for each flight.
   - `flightDetails`: A linked list to store flight details, allowing for dynamic addition and removal of flights.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 - C Compiler (e.g., GCC)
 - Basic understanding of C programming and data structures
 
